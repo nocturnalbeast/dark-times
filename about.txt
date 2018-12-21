@@ -1,0 +1,5 @@
+Theme name:    dark-times
+Description:   A very simple, and dark theme for Anchor CMS, without the frills
+Author name:   nocturnalbeast
+Author site:   https://github.com/nocturnalbeast
+License:       http://licence.visualidiot.com
